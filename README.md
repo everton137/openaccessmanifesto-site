@@ -1,7 +1,5 @@
 # Open Access Manifesto site
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
-
 Migration of the content of the Open Access Manifesto from [openaccessmanifesto.wordpress.com](https://openaccessmanifesto.wordpress.com/) to a static site using Gatsby. 
 
 The start teamplate is based on the [Gatsby Starter Tailwind](https://github.com/oddstronaut/gatsby-starter-tailwind). 
