@@ -1,8 +1,8 @@
 # Open Access Manifesto site
 
-Migration of the content of the Open Access Manifesto from [openaccessmanifesto.wordpress.com](https://openaccessmanifesto.wordpress.com/) to a static site using Gatsby. 
+Migration of the content of the Open Access Manifesto from [openaccessmanifesto.wordpress.com](https://openaccessmanifesto.wordpress.com/) to [openaccessmanifesto.netlify.app](https://openaccessmanifesto.netlify.app). 
 
-The start teamplate is based on the [Gatsby Starter Tailwind](https://github.com/oddstronaut/gatsby-starter-tailwind). 
+It is using Gatsby with the start teamplate based on the [Gatsby Starter Tailwind](https://github.com/oddstronaut/gatsby-starter-tailwind). 
 
 
 ## Resources
