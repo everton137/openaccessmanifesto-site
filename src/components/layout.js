@@ -16,21 +16,20 @@ function Layout({ children }) {
       <footer className="bg-black">
         <nav className="flex justify-between max-w-4xl p-4 mx-auto text-sm md:p-8">
           <p className="text-white">
-            Created by{` `}
             <a
               className="font-bold no-underline"
-              href="https://bryant.io"
+              href="https://archive.org/details/GuerillaOpenAccessManifesto"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Taylor Bryant
+              Open Access Manifesto
             </a>
           </p>
 
           <p>
             <a
               className="font-bold text-white no-underline"
-              href="https://github.com/taylorbryant/gatsby-starter-tailwind"
+              href="https://github.com/everton137/openaccessmanifesto-site"
               target="_blank"
               rel="noopener noreferrer"
             >
