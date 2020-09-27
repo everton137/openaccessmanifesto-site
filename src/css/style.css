@@ -1,0 +1,15 @@
+/*! purgecss start ignore */
+
+@tailwind base;
+@tailwind components;
+
+/*! purgecss end ignore */
+
+@tailwind utilities;
+p {
+    @apply text-lg leading-8 mb-4;
+}
+
+body {
+    @apply bg-gray-200;
+}
